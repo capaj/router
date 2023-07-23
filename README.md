@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This project is deprecated. Use [react-router](https://github.com/remix-run/react-router/) instead.
+
 <p align="center">
   <a href="https://reach.tech/router/">
     <img alt="Reach Router" src="./logo-horizontal.png" width="400">
